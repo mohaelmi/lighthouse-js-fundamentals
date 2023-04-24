@@ -37,18 +37,19 @@
 
 
 
-let num = 100;
-while(num <= 200){
+// let num = 100;
+// while(num <= 200){
  
-  if(num % 3 === 0){
-    console.log("Loopy")
-  }
-  if(num % 4 === 0){
-    console.log("Lighthouse")
-  }
-  if(num % 12 === 0){
-    console.log(num)
-  }
-  num++;
-  //console.log(num)
-}
+//   if(num % 3 === 0){
+//     console.log("Loopy")
+//   }
+//   if(num % 4 === 0){
+//     console.log("Lighthouse")
+//   }
+//   if(num % 12 === 0){
+//     console.log(num)
+//   }
+//   num++;
+//   //console.log(num)
+// }
+
